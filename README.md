@@ -12,4 +12,4 @@ Base development images that includes some common SDKs:
 - .Net core SDK 3.1
 - sonarscanner-for-msbuild 4.8.0
 
-The reason it includes only these is I only need those tools.
+This includes only these is I only need those tools.

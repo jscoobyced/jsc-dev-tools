@@ -9,7 +9,7 @@ Base development images that includes some common SDKs:
 - codecov linux script
 
 # jscdroiddev/jsc-net-dev-tools
-- .Net core SDK 3.1
+- .Net core SDK 2.2
 - sonarscanner-for-msbuild 4.8.0
 
 This includes only these is I only need those tools.
